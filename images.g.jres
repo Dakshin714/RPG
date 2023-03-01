@@ -1,0 +1,27 @@
+{
+    "{c$SAe0HX0VM": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd3d3dwAAAADXf3d3AAAAABd/J3cAAAAAd3cndwAAAAB3dydzAAAAANd/J3IAAAAAF38ncgAAAAB3d3d3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerslime"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd3d3dwAAAADXf3d3AAAAACd/J3cAAAAAd3cndwAAAAB3dydzAAAAANd/J3IAAAAAJ38ncgAAAAB3d3d3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemyslime"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd3d3dwAAAADXf3d3AAAAABd/J3cAAAAAd3cndwAAAAB3dydzAAAAANd/J3IAAAAAF38ncgAAAAB3d3d3AAAAAADwAAAAAAAAmfl3AAAAAJAA8AcAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerslimesword"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVd3d3dwAAAFnXf3d3AAAAVSd/J3cAACBSd3cndwAAIFJ3dydzAAAAVdd/J3IAAABZJ38ncgAAAFV3d3d3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
